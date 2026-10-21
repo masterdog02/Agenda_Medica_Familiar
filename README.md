@@ -1,2 +1,5 @@
 # Agenda_Medica_Familiar
-Llevar un registro de las horas medicas de mis padres
+Aplicación desarrollada en Python y Streamlit para
+gestionar las citas médicas familiares, controlar
+estados de atención y compartir información
+entre familiares responsables.
